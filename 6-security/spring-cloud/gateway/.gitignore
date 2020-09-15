@@ -1,7 +1,7 @@
+HELP.md
 .gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
-/keystore/
 
 ### STS ###
 .apt_generated
@@ -17,7 +17,7 @@
 *.iws
 *.iml
 *.ipr
-out
+/out/
 bin
 
 ### NetBeans ###
@@ -26,5 +26,3 @@ bin
 /dist/
 /nbdist/
 /.nb-gradle/
-.DS_Store
-ML-labb
